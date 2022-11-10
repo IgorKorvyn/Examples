@@ -8,7 +8,7 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Korvyn\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "D:\\GB\\Знакомство_с_языками_программирования\\Practice\\Example001\\Example001.csproj",
       "projectName": "Example001",
       "projectPath": "D:\\GB\\Знакомство_с_языками_программирования\\Practice\\Example001\\Example001.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Korvyn\\.nuget\\packages\\",
       "outputPath": "D:\\GB\\Знакомство_с_языками_программирования\\Practice\\Example001\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Korvyn\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
